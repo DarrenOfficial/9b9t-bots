@@ -75,3 +75,4 @@
 /ignore Seraxes
 /ignore UrBoi48
 /ignore LukeNGood
+/ignore yolocastm
